@@ -1,0 +1,16 @@
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\bin\Debug\net8.0-windows\Projekt pro Petu.exe
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\bin\Debug\net8.0-windows\Projekt pro Petu.deps.json
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\bin\Debug\net8.0-windows\Projekt pro Petu.runtimeconfig.json
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\bin\Debug\net8.0-windows\Projekt pro Petu.dll
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\bin\Debug\net8.0-windows\Projekt pro Petu.pdb
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\obj\Debug\net8.0-windows\Projekt_pro_Petu.Form1.resources
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\obj\Debug\net8.0-windows\Projekt pro Petu.csproj.GenerateResource.cache
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\obj\Debug\net8.0-windows\Projekt pro Petu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\obj\Debug\net8.0-windows\Projekt pro Petu.AssemblyInfoInputs.cache
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\obj\Debug\net8.0-windows\Projekt pro Petu.AssemblyInfo.cs
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\obj\Debug\net8.0-windows\Projekt pro Petu.csproj.CoreCompileInputs.cache
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\obj\Debug\net8.0-windows\Projekt pro Petu.dll
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\obj\Debug\net8.0-windows\refint\Projekt pro Petu.dll
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\obj\Debug\net8.0-windows\Projekt pro Petu.pdb
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\obj\Debug\net8.0-windows\Projekt pro Petu.genruntimeconfig.cache
+C:\Git\CsharpForP\Solution pro Petu\Projekt pro Petu\obj\Debug\net8.0-windows\ref\Projekt pro Petu.dll
