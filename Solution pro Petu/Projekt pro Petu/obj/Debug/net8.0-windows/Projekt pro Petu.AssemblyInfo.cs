@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Projekt pro Petu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8668ad6bb8274d03461c686fc5b62fe1c77f24eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Projekt pro Petu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Projekt pro Petu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
